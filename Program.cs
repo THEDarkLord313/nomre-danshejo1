@@ -1,4 +1,4 @@
-﻿
+// mohammad mahdi almasi
 Console.WriteLine("please enter score");
 int x;
 x = 0;
